@@ -77,7 +77,7 @@
   * 모집인원 5명 이내 : 관련기술 (springframework, jquery, database)  
   * 모집신청메일 담당자: woncheol@hallym.ac.kr      
 
-### [받아쓰기 프로그램 개발]()
+### [인공지능 받아쓰기 프로그램 개발]()
   * 팀명 :    
   * 팀원 : 장영재, 김민재
   * 지도교수 :    
