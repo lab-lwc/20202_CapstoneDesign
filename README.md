@@ -3,10 +3,10 @@
 ## 구글클래스 수업코드 : 6fvjcvp  
   * 특강 운영 및 강좌를 위해 구글클래스를 함께 운영합니다. 구글 클래스에 강의신청하시기 바랍니다.
   * 구글클래스 계정신청 서식은 Document 폴더에 있고, 팀장님이 취합해서 메일로 보내 주시기 바랍니다.
-## 주제선정 및 팀 구축 안내
+## 운영안내
   * [캡스톤디자인 운영안내](https://github.com/lab-lwc/20202_CapstoneDesign/blob/master/documents/2020%EB%85%842%ED%95%99%EA%B8%B0_%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%EC%95%88%EB%82%B4.pdf)
   * [캡스톤디자인 운영안내 동영상](https://www.youtube.com/watch?v=yZEhe0gM8fo)  
-  * 개강 첫 주는 지도 교수님과 미팅을 하시고 주제 및 내용을 확정하시기 바랍니다.  
+  * [자주하는 질문 안내](https://github.com/lab-lwc/20202_CapstoneDesign/commit/ab57e06a2c0387eec7939073ff3f1cca8ef0100d)   
   * 9월 18일까지 캡스톤디자인 신청서를 제출해 주세요.  
   * 팀 매칭이 안된 학생은 woncheol@hallym.ac.kr로 메일 주세요.     
 ## 화상회의 안내(일정 변경 가능)
