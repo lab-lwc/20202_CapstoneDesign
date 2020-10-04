@@ -104,7 +104,7 @@
   * 팀원 : 고하나
   * 지도교수 :  김의직
   * 참여기업 : 엠투테크(주) 
-### [(학생)Unity를이용한 VR게임제작](https://github.com/dthpdud/2020_CapstoneDesign)
+### [(학생)AR을 이용한 Android 라이브 배경화면](https://github.com/dhtpdud/2020_CapstoneDesign)
   * 팀명 : 드레곤브레스   
   * 팀원 : 오세영, 서정훈
   * 지도교수 : 이정 
