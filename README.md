@@ -193,7 +193,7 @@
   * 팀원 : 하지혜, 공준범, 이현진, 한승은
   * 지도교수 : 이정
   * 참여기업 : 오르카소프트
-### [(학생)공피하기 인공지능 게임](https://github.com/Leejungwoo4834/Hallym_Capston_AI-BALL)
+### [(학생)공피하기 인공지능 게임](https://github.com/wonchangyong/wonchang)
   * 팀명 : 공피해봐유 
   * 팀원 : 이정우, 마성민, 원창용, 남윤국
   * 지도교수 : 김진   
