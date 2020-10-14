@@ -3,12 +3,13 @@
 ## 구글클래스 수업코드 : 6fvjcvp  
   * 특강 운영 및 강좌를 위해 구글클래스를 함께 운영합니다. 구글 클래스에 강의신청하시기 바랍니다.
   * 구글클래스 계정신청 서식은 Document 폴더에 있고, 팀장님이 취합해서 메일로 보내 주시기 바랍니다.
-## 운영안내
-  * [캡스톤디자인 운영안내](https://github.com/lab-lwc/20202_CapstoneDesign/blob/master/documents/2020%EB%85%842%ED%95%99%EA%B8%B0_%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%EC%95%88%EB%82%B4.pdf)
-  * [캡스톤디자인 운영안내 동영상](https://www.youtube.com/watch?v=yZEhe0gM8fo)  
-  * [자주하는 질문 안내](https://github.com/lab-lwc/20202_CapstoneDesign/commit/ab57e06a2c0387eec7939073ff3f1cca8ef0100d)   
-  * 9월 18일까지 캡스톤디자인 신청서를 제출해 주세요.  
-  * 팀 매칭이 안된 학생은 woncheol@hallym.ac.kr로 메일 주세요.     
+## 캡스톤디자인 전시회 포스터 제출 안내
+   1. 제출형식: pptx와pdf  2가지 형식으로 모두 제출
+   2. 양식: 첨부된 양식으로 본문글자 '함초롬돋움', 폰트크기 '31.5'  
+        (주의: 본문글자체 및 크기 변경하지 않음)  
+   3. 제출처 : 42134@hallym.ac.kr    
+   4. 제출기한: 10월 26일 월요일 오후5시까지 / 메일제목 [캡스톤디자인-SW WEEK] 포스터 제출-팀명   
+   
 ## 화상회의 안내(일정 변경 가능)
 - 화상회의 참여 방법 안내 : googleclass의 meet를 이용 
   google class 수업코드 : 6fvjcvp  
