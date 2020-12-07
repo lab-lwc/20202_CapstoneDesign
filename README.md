@@ -102,7 +102,7 @@
   * 팀원 : 김재경, 정의훈, 이길재
   * 지도교수 : 김선정 
   * 참여기업 : 넷마블n2
-### [(교수)저전력 무선 센서 디바이스를 활용한 거리측정 알고리즘](https://github.com/YeonHeeLee98/Distance-Measurement-Algorithm)
+### [(교수)이상치 보정을 활용한 BLE Beacon 기반의 실내 거리측정 기법 연구](https://github.com/YeonHeeLee98/Distance-Measurement-Algorithm)
   * 팀명 : 이연희
   * 팀원 : 이연희 
   * 지도교수 :  김의직 
