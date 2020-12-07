@@ -211,7 +211,7 @@
   * 지도교수 : 김진국  
   * 참여기업 : 소프트잼
 
-### [(학생)Unity를 이용한 교육용 VR프로그램(ver. 코로나19 행동수칙)](https://github.com/Meang27)
+### [(학생)Unity를 이용한 교육용 VR프로그램(ver. 코로나19 행동수칙)](https://github.com/Meang27/-_EDU-UNIT)
   * 팀명 : Edu-Unit
   * 팀원 : 박세은, 구자빈, 손민국, 안형모, 맹현영
   * 지도교수 : 이정 
